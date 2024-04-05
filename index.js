@@ -173,7 +173,7 @@ tl.to(".loader", {
     display: "none"
 })
 
-t1.to(".name", {
+tl.to(".name", {
     y: -10,
     stagger: 0.5,
     opacity: 0,
